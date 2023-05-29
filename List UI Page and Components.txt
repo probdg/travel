@@ -1,0 +1,89 @@
+* Required materials
+
+	+ Template
+	- Dashboard template
+
+	+ Components
+		~ card
+			- basic card
+			- tabbed card
+			- ticket card
+		~ Form
+			- form control
+			- select
+			- input group
+		~ button
+
+-----------------------------------------------------
+
+* Page List
+	- login
+
++ ------------ same layout ------------ + 
+|					|
+| 1 page				|
+|	- Import SPPD			|
+|	- Report       			|
+|	- Payment			|
+|		+ Components		|
+|			- card		|
+|			- button	|
+|			- datatable	|
+|					|
++ ------------------------------------- +
+
+
++ ------------- same layout ----------- + 
+|					|
+| 1 page				|
+|	- Trips				|
+|	- My Ticket List		|
+|		+ Components		|
+|			- ticket card	|
+|					|
++ ------------------------------------- +
+
+
+	- Flights - 3 page
+		+ Components
+			- tabbed card
+			- input group
+			- button
+
+	- Pre Booking - 2 page
+		+ Components
+			- card
+			- button
+
+	- Booking - 1 page
+		+ Components
+			- card
+
+	- Hotels - 3 page
+		+ Components
+			- card
+			- input group
+			- select
+			- button
+
+	- Data Penyewa - 1 page
+		+ Components
+			- card
+			- input group
+			- select
+			- button
+
+
+	- Booking Detail
+		+ Components
+			- card
+
+	- Report
+		+ Components
+			- card
+			- datatables
+
+	- Payment
+		+ Components
+			- card
+			- datatables
